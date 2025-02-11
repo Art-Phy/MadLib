@@ -1,4 +1,4 @@
-# Bienvenid@s a mi primer MadLib
+## Bienvenid@s a mi MadLib
 
 #### Se trata de un pequeño ejercicio para practicar Python teniendo como objetivo crear un Madlib
 
